@@ -40,12 +40,16 @@ Foto Rangkaian:
 #
 
 #
-Pengujian Kodular dan Mqtt:
+2. Pengujian Kodular dan Mqtt:
 #
 ![pengujian1](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/e033c092-836c-4f4a-97b8-8e6eee0237ad)
 #
 ![pengujian2](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/c54ac484-f367-4972-875d-5c749852c07a)
 #
 
+#
+3. Diagram Alur
+![DiagramIOT](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/62c32c8e-bf3c-4bc3-aaee-789789041537)
+#
 
 
