@@ -5,7 +5,7 @@ Kelompok IOT A 2021:
 3. 2109106048 M.Arvin Saskoro
 
 
-# IMPLEMENTASI SISTEM IOT UNTUK SISTEM PAKAN KUCING DENGAN SENSOR JARAK DAN SERVO
+# IMPLEMENTASI SISTEM IOT UNTUK SISTEM PAKAN KUCING DENGAN SENSOR JARAK, SENSOR SUHU DAN SERVO
 Deskripsi:
 Proyek ini bertujuan untuk memberikan solusi otomatis untuk memberi makan kucing secara teratur menggunakan sistem IoT. Sistem ini akan dilengkapi dengan sensor jarak dan servo yang akan memastikan bahwa kucing mendapatkan pakan yang cukup berdasarkan waktunya dari perangkat.
 
@@ -25,9 +25,8 @@ Komponen Yang Digunakan:
 4.	Buzzer x 1
 5.	LED x 1
 6.	Servo x 1
-7.	Resistor x 1
-8.	Sensor Ultra Sonic x 1
-9.	Sensor DHT11 x 1
+7.	Sensor Ultra Sonic x 1
+8.	Sensor DHT11 x 1
 
 
 #
