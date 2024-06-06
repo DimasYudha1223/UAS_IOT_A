@@ -1,5 +1,5 @@
-# ProyekAkhir-praktikum-iot-unmul-2024
-Kelompok PA 5 IOT A 2021:
+# Proyek-iot-unmul-2024
+Kelompok IOT A 2021:
 1. 2109106005 Dimas Abdi Yudha
 2. 2109106019 Dimas Arya Nugraha
 3. 2109106048 M.Arvin Saskoro
@@ -27,33 +27,26 @@ Komponen Yang Digunakan:
 6.	Servo x 1
 7.	Resistor x 1
 8.	Sensor Ultra Sonic x 1
+9.	Sensor DHT11 x 1
 
 
 #
-1. Design Schematic:
+1. Rangkaian dan Pengujian:
 #
-Publisher:
+Foto Rangkaian:
 #
-![publisher](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/7e2df8a5-06f2-4ded-8dc8-25c7a3b34fb3)
+![rangkaian1](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/39752816-bcb0-40c7-a91e-c35fd6f78375)
 #
-Subscriber:
-#
-![subscriber](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/a2fc732f-c7d3-4f91-8fdd-ea43dbfae55e)
+![rangkaian2](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/be35ea8c-40a3-4f3b-8e49-f12ec30aaf8c)
 #
 
-
 #
-2. Rangkaian Fisik:
+Pengujian Kodular dan Mqtt:
 #
-Publisher:
+![pengujian1](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/e033c092-836c-4f4a-97b8-8e6eee0237ad)
 #
-![pub](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/2299cd87-070b-4ae0-bf4e-ef25edd7e23c)
+![pengujian2](https://github.com/DimasYudha1223/UAS_IOT_A/assets/93185675/c54ac484-f367-4972-875d-5c749852c07a)
 #
-Subscriber:
-#
-![subs](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/b7a0a505-448e-45bd-b0e9-da51b60325e7)
-#
-
 
 
 
